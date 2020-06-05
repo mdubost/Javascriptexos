@@ -1,6 +1,5 @@
-# Javascriptexos
+# Exos Javascript de base
 
-2. Le projet
 Pour ce projet, nous allons reprendre des exercices basiques de programmation que tu as déjà effectués pendant tes premières semaines chez THP. Ce sera l'occasion pour toi de voir le progrès que tu as réalisé et le chemin parcouru car ta problématique ne sera plus de résoudre le problème (tu l'as déja fait) mais de passer d'un langage à un autre.
 
 2.1. Hello World
